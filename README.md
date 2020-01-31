@@ -1,13 +1,10 @@
 # workout-tracker
 
-Burger
-Live Link: https://aydy-burger.herokuapp.com/
+Live Link: https://aydy-workout-tracker.herokuapp.com/
 
-Description:
+Description and Usage: Tracker app that records workout stats. User is able to view create and track daily workouts, log multiple exercises in a workout on a given day and is also able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the user should be able to track their distance traveled.
 
-Usage:
-
-App instructions:
+App instructions: npm install
 
 Installation: package.json
 
@@ -17,4 +14,4 @@ Challenges: learning another database despite similarites to Sequelize
 
 Successes: The app is functional!
 
-Roadmap: Creating this app was a good introduction to databases.
+Roadmap: Creating this app was a good introduction to NOSQL databases.
